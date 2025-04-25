@@ -13,7 +13,7 @@
 ---
 
 # 👋 Hi, I'm Benjamin IBOK  
-### MSc Data Science & Computational Intelligence | Developer | Embedded Systems Enthusiast | Maker
+### MSc Data Science & Computational Intelligence, Coventry University | Developer | Embedded Systems Enthusiast | Maker
 
 ---
 
