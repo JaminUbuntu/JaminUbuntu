@@ -66,7 +66,6 @@ Areas of interest include:
 
 ## 🌟 Featured Projects
 
-- 🤖 WordNet-based E-Commerce Chatbot with GUI
 - 📈 TimesNet & DeepAR for Air Quality Forecasting
 - 🧠 BERT vs BiLSTM Sentiment Classification Pipeline
 - ⚡ Arduino-Powered Motion Detection with LED Control
@@ -74,9 +73,15 @@ Areas of interest include:
 
 ---
 
+## 🌟 Future Projects
+
+- 🤖 WordNet-based E-Commerce Chatbot with GUI
+
+---
+
 ## 📫 Contact Me
 
-- 📧 **University Email:** [ibok@coventry.ac.uk](mailto:ibok@coventry.ac.uk)  
+- 📧 **University Email:** [ibok@coventry.ac.uk](mailto:ibokb@coventry.ac.uk)  
 - 📬 **Personal Email:** [benjaminsibok@gmail.com](mailto:benjaminsibok@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
 - 🧠 [ORCID](https://orcid.org/your-id)  
