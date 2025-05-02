@@ -76,7 +76,7 @@ Areas of interest include:
 ## 🌟 Future Projects
 
 - 🤖 WordNet-based E-Commerce Chatbot with GUI
-- 📈 WordNet-based E-Commerce Chatbot with GUI
+- 📈 Crypto Predictor App using TimesNet
 
 ---
 
