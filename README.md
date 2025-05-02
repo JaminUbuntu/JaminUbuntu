@@ -1,9 +1,9 @@
 <!-- GitHub Profile README -->
-
+<!-- Image Part
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" alt="Banner" />
 </p>
-
+-->
 <p align="center">
   <a href="https://github.com/your-username">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MSc+Data+Science+Student;Web+%2B+Embedded+Systems+Developer;AI+%7C+NLP+%7C+Forecasting+Explorer;Open+to+Dissertation+Ideas+%26+Collabs" alt="Typing SVG" />
