@@ -6,7 +6,6 @@
 -->
 <p align="center">
   <a href="https://github.com/your-username">
-    <strong style="font-size: 24px;">Welcome, I'm Benjamin IBOK</strong><br><br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MSc+Data+Science+Student;Web+%2B+Embedded+Systems+Developer;AI+%7C+NLP+%7C+Forecasting+Explorer;Open+to+Dissertation+Ideas+%26+Collabs" alt="Typing SVG" />
   </a>
 </p>
