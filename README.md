@@ -13,10 +13,10 @@
 ---
 
 # 👋 Hi, I'm Benjamin IBOK  
-### MSc Data Science & Computational Intelligence
-Coventry University
-United Kingdom
-| Developer | Embedded Systems Enthusiast | Maker
+### MSc Data Science & Computational Intelligence,
+Coventry University,
+United Kingdom.
+###| Developer | Embedded Systems Enthusiast | Maker
 
 ---
 
