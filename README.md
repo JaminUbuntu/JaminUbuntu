@@ -84,7 +84,7 @@ Areas of interest include:
 
 ## 📫 Contact Me
 
-- 📧 **University Email:** [ibok@coventry.ac.uk](mailto:ibokb@coventry.ac.uk)  
+- 📧 **University Email:** [ibokb@coventry.ac.uk](mailto:ibokb@coventry.ac.uk)  
 - 📬 **Personal Email:** [benjaminsibok@gmail.com](mailto:benjaminsibok@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-ibok-34a72974/)  
 - 🧠 [ORCID](https://orcid.org/0009-0007-1283-6605)  
