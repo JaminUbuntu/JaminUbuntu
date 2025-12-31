@@ -21,9 +21,9 @@ United Kingdom. | Developer | Embedded Systems Enthusiast | Maker
 
 ## 🚀 About Me
 
-I'm a **master’s student in Data Science & Computational Intelligence at Coventry University, United Kingdom**, passionate about solving real-world problems at the intersection of software, data, and hardware.
+I'm a **master’s graduate in Data Science & Computational Intelligence, studied at Coventry University, United Kingdom**, passionate about solving real-world problems at the intersection of software, data, and hardware.
 
-Currently about to begin work on my **master’s dissertation**, and would love to hear about **interesting ideas, projects, or collaboration opportunities** — especially in AI, smart systems, or anything hands-on and impactful.
+Currently busy experimenting with machine learning and artificial neural network models, my **new favorite pastime**, and would love to hear about **interesting ideas, projects, or collaboration opportunities** — especially in AI, smart systems, or anything hands-on and impactful.
 
 ---
 
